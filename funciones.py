@@ -9,3 +9,5 @@ def primo(n):
 
 def palindromo(s):
     return s==s[::-1]
+
+palindromo("anitalavalatina")
